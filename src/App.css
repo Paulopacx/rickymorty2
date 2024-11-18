@@ -1,0 +1,12 @@
+.filters{
+    padding:10px;
+}
+.character-card{
+    font-size:small
+}
+.character-list{
+    padding:10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
